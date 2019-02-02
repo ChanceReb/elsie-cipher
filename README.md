@@ -1,2 +1,2 @@
 # elsie-cipher
-Implementation of the ElsieFour cipher challenge as listed on reddit.
+Implementation of the ElsieFour cipher challenge as listed on reddit/r/dailyprogrammer.
